@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/condessalovelace/springbootapp.svg?branch=master)](https://travis-ci.org/condessalovelace/springbootapp) ![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=br.com.condessalovelace%3Aspringbootapp&metric=alert_status)
+
 # springbootapp
 
 Projeto de aplicação Spring Boot simples com um serviço de saudação.

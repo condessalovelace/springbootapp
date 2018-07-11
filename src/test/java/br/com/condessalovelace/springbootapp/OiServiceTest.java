@@ -15,6 +15,11 @@ import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.web.client.RestTemplate;
 
+/**
+ * 
+ * @author condessalovelace
+ *
+ */
 @RunWith(SpringRunner.class)
 @ContextConfiguration(classes = {RestTemplate.class})
 public class OiServiceTest {
